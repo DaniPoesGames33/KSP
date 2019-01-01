@@ -1,2 +1,2 @@
 # KSP
-All my Kerbal Space Program things
+THIS IS WHERE I STORE ALL MY PUBLIC KSP THINGS
